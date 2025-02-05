@@ -1,0 +1,5 @@
+aliyun:
+  oss:
+    endpoint: "http://oss-cn-beijing.aliyuncs.com"
+    bucketName: java-ai-meris
+    region: cn-beijing
